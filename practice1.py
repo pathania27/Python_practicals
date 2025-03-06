@@ -1,0 +1,5 @@
+print("Hello World")
+print("Welcome to the world of python")
+print("Welcome to Government Polytechnic Hamirpur")
+print("Information Technology")
+print("hii Anjali")
